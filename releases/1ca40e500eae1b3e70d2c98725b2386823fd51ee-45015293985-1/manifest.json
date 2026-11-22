@@ -1,0 +1,28 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1",
+  "app": "newproj2",
+  "global": "__sveltekit_1270ysa",
+  "start": "_app/immutable/entry/start.BVZO_msX.js",
+  "appEntry": "_app/immutable/entry/app.BJFSanyc.js",
+  "styles": [
+    "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1/_app/immutable/assets/0.j9BKGb-B.css"
+  ],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1/_app/immutable/entry/start.BVZO_msX.js",
+    "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1/_app/immutable/chunks/4_Hyjfi9.js",
+    "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1/_app/immutable/chunks/E-F0241y.js",
+    "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1/_app/immutable/entry/app.BJFSanyc.js",
+    "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1/_app/immutable/chunks/DYi8Ui3A.js",
+    "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1/_app/immutable/chunks/CoJfSZFu.js",
+    "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1/_app/immutable/chunks/DSIWS33_.js",
+    "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1/_app/immutable/chunks/8PEWcdCj.js",
+    "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1/_app/immutable/nodes/0.DK1pZghB.js",
+    "https://yissok.github.io/newproj2-dist/releases/1ca40e500eae1b3e70d2c98725b2386823fd51ee-45015293985-1/_app/immutable/chunks/CGjDl4S2.js"
+  ],
+  "social": {
+    "title": "Newproj2",
+    "description": "An interactive website created with Project Factory."
+  }
+}
