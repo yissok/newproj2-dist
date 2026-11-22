@@ -1,0 +1,1 @@
+import{k as o,at as n,a1 as c,P as l}from"./CvSyTExa.js";function a(e){throw new Error("https://svelte.dev/e/lifecycle_outside_component")}function r(e){n===null&&a(),c&&n.l!==null?u(n).m.push(e):o(()=>{const t=l(e);if(typeof t=="function")return t})}function u(e){var t=e.l;return t.u??={a:[],b:[],m:[]}}export{r as o};
