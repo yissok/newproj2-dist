@@ -1,0 +1,31 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1",
+  "app": "newproj2",
+  "global": "__sveltekit_f1za6w",
+  "start": "_app/immutable/entry/start.2qDRNdY1.js",
+  "appEntry": "_app/immutable/entry/app.CXe7mI9c.js",
+  "styles": [
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/assets/0.DYg0jdgm.css"
+  ],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/entry/start.2qDRNdY1.js",
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/chunks/Bgwt9G1O.js",
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/chunks/DYcfFA1S.js",
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/chunks/_s2Ra8wR.js",
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/entry/app.CXe7mI9c.js",
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/chunks/BA2MmxCP.js",
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/chunks/0MuGtHpw.js",
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/chunks/lBR1T52F.js",
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/chunks/D-a6n6BV.js",
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/nodes/0.aq8tAOHw.js",
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/chunks/DAzE4Y-K.js",
+    "https://yissok.github.io/newproj2-dist/releases/a1eb60335cd25ae40318ba25d593e9c990e22efe-45409276417-1/_app/immutable/chunks/RpTtz7eV.js"
+  ],
+  "social": {
+    "title": "Newproj2",
+    "description": "An interactive website created with Project Factory."
+  },
+  "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
+}

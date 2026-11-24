@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Signed storage POC</title>
+<style>
+:root{color-scheme:light dark;font:16px/1.5 system-ui,sans-serif}
+body{margin:0;background:#f2f4f1;color:#1e2b24}main{max-width:760px;margin:auto;padding:32px 20px 64px}
+h1{font-size:2rem;line-height:1.15;margin:0 0 12px}h2{font-size:1.1rem;margin:28px 0 8px}
+p{max-width:66ch}small{color:#526156}section{border-top:1px solid #b9c6bc;padding-top:12px;margin-top:24px}
+button{font:inherit;font-weight:600;border:1px solid #24533c;border-radius:5px;padding:11px 16px;background:#24533c;color:white;cursor:pointer}
+button:disabled{opacity:.5;cursor:wait}.actions{display:flex;gap:10px;flex-wrap:wrap;margin:16px 0}
+textarea{box-sizing:border-box;width:100%;min-height:230px;font:12px/1.5 ui-monospace,monospace;padding:12px;border:1px solid #9cab9f;border-radius:4px;background:#fff;color:#18251b}
+li{margin:10px 0;overflow-wrap:anywhere}output{display:block;white-space:pre-wrap;overflow-wrap:anywhere}
+.error{color:#992a25}code{font-size:.85em}a{color:#24533c}label{display:block;margin-bottom:8px;font-weight:600}
+@media(prefers-color-scheme:dark){body{background:#15211b;color:#e1e9e3}small{color:#b2c5b8}textarea{background:#0d1711;color:#e1e9e3}a{color:#a5d7b6}.error{color:#ffb4aa}}
+</style>
+</head>
+<body><main>
+<p><small>Project Factory · storage feasibility · dummy data</small></p>
+<h1>Signed storage POC</h1>
+<p>Write an encrypted dummy record through Google Forms, then confirm it using its matching public Sheet receipt. Test keys stay in this browser.</p>
+<section>
+<h2>1. Prepare the test identities</h2>
+<p>This prepares two browser identities for the already verified dummy signup IDs. Give the owner only the public registration below.</p>
+<div class="actions"><button id="prepare">Prepare test identities</button></div>
+<label for="registration">Public registration — contains no private keys</label>
+<textarea id="registration" readonly autocomplete="off" spellcheck="false"></textarea>
+<output id="identity-status" aria-live="polite"></output>
+</section>
+<section>
+<h2>2. Run the signed storage checks</h2>
+<p>The owner must publish the shared command Form and approve these public keys first. An opaque POST response does not confirm a save.</p>
+<div class="actions"><button id="run" disabled>Run live storage checks</button><button id="reload-check" disabled>Check after page reload</button></div>
+<output id="status" aria-live="polite">Waiting for test identities.</output>
+<ol id="results"></ol>
+</section>
+<p><small>Existing suggestion and owner menus remain on the <a href="../../">main newproj2 page</a>.</small></p>
+<script type="module" src="./storage-poc.mjs"></script>
+</main></body></html>
