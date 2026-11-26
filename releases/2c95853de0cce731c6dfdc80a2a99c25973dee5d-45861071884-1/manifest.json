@@ -1,0 +1,33 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1",
+  "app": "newproj2",
+  "global": "__sveltekit_1w3xb0b",
+  "start": "_app/immutable/entry/start.BK6D15zQ.js",
+  "appEntry": "_app/immutable/entry/app.nagd6roG.js",
+  "styles": [
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/assets/0.DhiSY61-.css"
+  ],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/entry/start.BK6D15zQ.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/chunks/D-2M9NIA.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/chunks/B3cMKBD_.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/entry/app.nagd6roG.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/chunks/DlcQv9rr.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/chunks/NBvlK8W5.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/chunks/D5PTe1jb.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/chunks/BM_awGhB.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/chunks/BT-n1Tp7.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/nodes/0.Cx44-tL8.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/chunks/D1CNBbKL.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/chunks/DFZzu6br.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/chunks/BqxEc9KN.js",
+    "https://yissok.github.io/newproj2-dist/releases/2c95853de0cce731c6dfdc80a2a99c25973dee5d-45861071884-1/_app/immutable/chunks/BkBb9ehi.js"
+  ],
+  "social": {
+    "title": "Newproj2",
+    "description": "An interactive website created with Project Factory."
+  },
+  "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
+}
